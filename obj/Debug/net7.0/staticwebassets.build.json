@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Z65RfLrzgoFM4sGcV5jCE3sB0yTIn6swBYg9Sw0TO+A=",
+  "Source": "supabase-dotnet",
+  "BasePath": "_content/supabase-dotnet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
